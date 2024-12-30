@@ -1,0 +1,18 @@
+GET http://localhost:3000/prodi
+
+###
+GET http://localhost:3000/kelas
+
+###
+GET http://localhost:3000/kelas/29874
+
+###
+GET http://localhost:3000/dosen
+
+###
+GET http://localhost:3000/tahun-ajaran
+
+###
+GET http://localhost:3000/tahun-ajaran/20233
+
+
