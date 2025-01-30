@@ -15,4 +15,10 @@ GET http://localhost:3000/tahun-ajaran
 ###
 GET http://localhost:3000/tahun-ajaran/20233
 
+###
+POST http://localhost:3000/kelas
+Content-Type: application/json
+{
+    "ids": [33857, 33858]
 
+}
